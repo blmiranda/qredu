@@ -1,0 +1,17 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Optical Mark Recognition API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Miranda",
+  "license": "ISC",
+  "prettier": {
+    "singleQuote": true
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
