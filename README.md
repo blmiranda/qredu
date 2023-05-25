@@ -1,0 +1,1 @@
+- Currently being build with NodeJS and Python for the OMR algorythm!
